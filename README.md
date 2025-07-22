@@ -39,9 +39,9 @@ python main.py
 
 📌 Exemplo de CSV esperado
 ```
-Nome,Data,Horas Extras
-João,2025-07-20,2
-Maria,2025-07-20,3.5
+Nome,  Horas Extras,       Data,          Setor
+João,       2,           2025-07-20,    Financeiro
+Maria,      4,           2025-07-20,    Desenvolvedor
 ```
 
 ## 👨‍💻 Autor @Guzitos
